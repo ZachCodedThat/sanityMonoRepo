@@ -3,6 +3,7 @@
   "project": {
     "name": "purple-swan"
   },
+  "basePath": "/studio",
   "api": {
     "projectId": "dsjoelwe",
     "dataset": "production"
@@ -15,9 +16,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [
