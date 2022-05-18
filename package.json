@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "eslint": "7",
-    "eslint-config-next": "12.0.4"
+    "eslint-config-next": "12.0.4",
+    "@sanity/cli": "^2.30.0"
   }
 }
